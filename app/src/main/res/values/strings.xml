@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeFit</string>
+    <string name="tagline">Track Weight, Count Steps, Stay Fit.</string>
+    <string name="channel_reminders">Reminders</string>
+    <string name="channel_reminders_desc">Weight, step goal, activity and weekly summary reminders</string>
+    <string name="channel_achievements">Achievements</string>
+    <string name="channel_achievements_desc">When you unlock a new achievement</string>
+    <string name="channel_tracking">Step tracking</string>
+    <string name="channel_tracking_desc">Shown while background step tracking is switched on</string>
+</resources>

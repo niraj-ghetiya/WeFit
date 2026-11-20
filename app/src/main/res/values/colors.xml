@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wefit_purple">#7C3AED</color>
+    <color name="wefit_purple_dark">#3B1585</color>
+    <color name="wefit_splash">#2A1060</color>
+    <color name="wefit_background">#FAF8FF</color>
+    <color name="wefit_background_dark">#160D2B</color>
+</resources>
